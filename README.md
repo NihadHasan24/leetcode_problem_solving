@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0389-find-the-difference) |
@@ -29,6 +30,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -38,4 +40,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0812-rotate-string) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
