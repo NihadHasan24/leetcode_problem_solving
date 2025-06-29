@@ -43,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
 ## Simulation
 |  |
