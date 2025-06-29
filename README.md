@@ -45,8 +45,13 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
