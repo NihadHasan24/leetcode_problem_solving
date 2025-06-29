@@ -26,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0345-reverse-vowels-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -35,6 +36,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
