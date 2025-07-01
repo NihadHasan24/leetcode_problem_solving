@@ -65,10 +65,12 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0119-pascals-triangle-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
