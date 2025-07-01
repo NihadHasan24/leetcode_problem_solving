@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -24,6 +25,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
 ## String Matching
@@ -66,6 +69,7 @@
 | [0088-merge-sorted-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
@@ -73,4 +77,8 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0119-pascals-triangle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
