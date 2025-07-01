@@ -1,15 +1,34 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        #better solution
-        dic = {}
+        # moore's voting algo (optimal)
+        count = 0 
+        elem = 0
         for i in range(len(nums)):
-            if nums[i] not in dic:
-                dic[nums[i]] = 1
+            if count == 0:
+                count = 1
+                elem = nums[i]
+            elif nums[i] == elem:
+                count += 1
             else:
-                dic[nums[i]]  += 1     
-        for val in dic:
-            if dic[val]>(len(nums)//2):
-                return val            
+                count -= 1
+        count1 = 0        
+        for i in range(len(nums)):
+            if nums[i] == elem:
+                count1 += 1
+        if count1>(len(nums)//2):
+            return elem   
+                              
+        #better solution
+        # dic = {}
+        # for i in range(len(nums)):
+        #     if nums[i] not in dic:
+        #         dic[nums[i]] = 1
+        #     else:
+        #         dic[nums[i]]  += 1     
+        # for val in dic:
+        #     if dic[val]>(len(nums)//2):
+        #         return val  
+
         # Brute Force
         # for i in range(len(nums)):
         #     count = 0
