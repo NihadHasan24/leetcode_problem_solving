@@ -7,7 +7,7 @@ class Solution:
             else:
                 res[arr[i]] += 1
         maxi = -1
-        for i,j in res.items():
-            if i == j:
-                maxi = max(maxi,i)
+        for num,freq in res.items():
+            if num == freq:
+                maxi = max(maxi,num)
         return maxi    
