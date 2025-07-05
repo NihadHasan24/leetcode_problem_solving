@@ -8,6 +8,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0387-first-unique-character-in-a-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0169-majority-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
