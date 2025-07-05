@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0389-find-the-difference) |
@@ -68,6 +69,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0119-pascals-triangle-ii) |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
