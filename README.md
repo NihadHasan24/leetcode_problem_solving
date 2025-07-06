@@ -19,6 +19,7 @@
 | [0389-find-the-difference](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0812-rotate-string) |
+| [3533-snake-in-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3617-find-the-original-typed-string-i) |
 ## Queue
 |  |
@@ -63,6 +64,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0898-transpose-matrix) |
+| [3533-snake-in-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1677-matrix-diagonal-sum) |
+| [3533-snake-in-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3533-snake-in-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
