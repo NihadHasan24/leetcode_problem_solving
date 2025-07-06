@@ -78,6 +78,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0898-transpose-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0898-transpose-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1677-matrix-diagonal-sum) |
 ## Dynamic Programming
@@ -94,5 +95,6 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0898-transpose-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
