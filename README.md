@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0069-sqrtx) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0566-reshape-the-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0898-transpose-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1677-matrix-diagonal-sum) |
@@ -103,6 +105,7 @@
 | [0073-set-matrix-zeroes](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1677-matrix-diagonal-sum) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2398-check-if-matrix-is-x-matrix) |
