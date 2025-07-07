@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0898-transpose-matrix) |
 | [3533-snake-in-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3533-snake-in-matrix) |
 ## Binary Search
@@ -78,6 +79,7 @@
 | [0119-pascals-triangle-ii](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0566-reshape-the-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0898-transpose-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1677-matrix-diagonal-sum) |
