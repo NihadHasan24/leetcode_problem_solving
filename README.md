@@ -85,6 +85,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1677-matrix-diagonal-sum) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3330-modify-the-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3330-modify-the-matrix) |
 | [3533-snake-in-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3533-snake-in-matrix) |
 ## Dynamic Programming
@@ -104,5 +105,6 @@
 | [0898-transpose-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1677-matrix-diagonal-sum) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3330-modify-the-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3330-modify-the-matrix) |
 <!---LeetCode Topics End-->
