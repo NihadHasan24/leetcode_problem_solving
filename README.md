@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -74,6 +75,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0118-pascals-triangle) |
@@ -102,6 +104,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0898-transpose-matrix) |
