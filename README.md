@@ -48,6 +48,7 @@
 | [0169-majority-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2728-sum-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2728-sum-in-a-matrix) |
 ## String Matching
 |  |
@@ -76,6 +77,7 @@
 | [0069-sqrtx](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0162-find-peak-element) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1677-matrix-diagonal-sum) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2728-sum-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3330-modify-the-matrix) |
