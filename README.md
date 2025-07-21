@@ -77,6 +77,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0162-find-peak-element) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -94,6 +95,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1496-lucky-numbers-in-a-matrix) |
