@@ -37,6 +37,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0345-reverse-vowels-of-a-string) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2728-sum-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2728-sum-in-a-matrix) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Array
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2728-sum-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2728-sum-in-a-matrix) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3330-modify-the-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3330-modify-the-matrix) |
 | [3533-snake-in-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3533-snake-in-matrix) |
 ## Dynamic Programming
