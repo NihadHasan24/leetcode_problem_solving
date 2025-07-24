@@ -1,5 +1,6 @@
 class Solution:
     def countPairs(self, nums: List[int], target: int) -> int:
+        # 0(nlogn)
         nums.sort()
         i = 0
         j = len(nums) - 1
