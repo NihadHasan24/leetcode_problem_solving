@@ -2,17 +2,14 @@ class Solution:
     def getCommon(self, nums1: List[int], nums2: List[int]) -> int:
         i = 0
         j = 0
-        common = -1
         while (i <len(nums1) and j<len(nums2)):
             if nums1[i] == nums2[j]:
-                common = nums1[i]
-                break
+                return nums1[i]
             elif nums1[i] < nums2[j]: 
                 i += 1
-
             else:
                 j += 1
-        return common              
+        return -1             
         
 
         # Brute force
