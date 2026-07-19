@@ -20,6 +20,7 @@
 | [0389-find-the-difference](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0812-rotate-string) |
+| [1446-consecutive-characters](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1446-consecutive-characters) |
 | [3533-snake-in-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3533-snake-in-matrix) |
 | [3617-find-the-original-typed-string-i](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3617-find-the-original-typed-string-i) |
 ## Queue
