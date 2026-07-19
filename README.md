@@ -71,6 +71,7 @@
 | [0231-power-of-two](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0118-pascals-triangle](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,4 +158,5 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
