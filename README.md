@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -67,6 +68,7 @@
 | [0048-rotate-image](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
 |  |
@@ -143,4 +145,8 @@
 |  |
 | ------- |
 | [2728-sum-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2728-sum-in-a-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
