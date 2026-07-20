@@ -73,6 +73,7 @@
 | [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1137-n-th-tribonacci-number) |
@@ -168,4 +169,8 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1137-n-th-tribonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
