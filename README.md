@@ -72,6 +72,7 @@
 | [0509-fibonacci-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1137-n-th-tribonacci-number) |
+| [1518-water-bottles](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1518-water-bottles) |
 ## Simulation
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0067-add-binary](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/0898-transpose-matrix) |
+| [1518-water-bottles](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/1518-water-bottles) |
 | [2728-sum-in-a-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/2728-sum-in-a-matrix) |
 | [3533-snake-in-matrix](https://github.com/NihadHasan24/leetcode_solve_problem/tree/master/3533-snake-in-matrix) |
 ## Binary Search
